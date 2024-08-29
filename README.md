@@ -1,2 +1,2 @@
 # IngredientD-S
-Ingredients Database and Shopping 
+Ingredients Database & Shopping 
